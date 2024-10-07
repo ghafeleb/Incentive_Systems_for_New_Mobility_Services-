@@ -34,7 +34,7 @@ The central planner (which is referred to as "Incentive OfferingPlatform" in Fig
 </p>
 
 ```
-python2 -m pip install -r python2_requirements.txt.txt
+python2 -m pip install -r python2_requirements.txt
 ```
 
 <p align="justify">
@@ -42,7 +42,7 @@ Download and install <b>Python 3.x version</b> from <a href="https://www.python.
 </p>
 
 ```
-python3 -m pip install -r python3_requirements.txt.txt
+python3 -m pip install -r python3_requirements.txt
 ```
 
 <p align="justify">
